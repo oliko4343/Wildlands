@@ -1,3 +1,1 @@
-# Wildlands
-
 ![Title](/WildlandsWinterTitle.jpg)
