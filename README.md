@@ -1,3 +1,3 @@
 # Wildlands
 
-![Title](/image.png)
+![Title](/WildlandsWinterTitle.png)
